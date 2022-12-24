@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm AWS certified tech lead, developing technical solutions, building secure, scalable and maintainable apps as well as managing cloud insfrastructures. Some of the programming languages and technologies I currently use:
+I'm AWS certified tech lead, developing technical solutions, building secure, scalable and maintainable apps as well as managing cloud infrastructures. Some of the programming languages and technologies I currently use:
 
 ![Node](https://aleen42.github.io/badges/src/node.svg)
 ![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)
@@ -12,7 +12,6 @@ I'm AWS certified tech lead, developing technical solutions, building secure, sc
 ![Vue](https://aleen42.github.io/badges/src/vue.svg)
 ![Angular](https://aleen42.github.io/badges/src/angular.svg)
 ![React](https://badges.aleen42.com/src/react.svg)
-![Nest](https://aleen42.github.io/badges/src/angular.svg)
 
 ![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)
 ![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)
