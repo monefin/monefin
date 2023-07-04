@@ -1,7 +1,3 @@
-<div align="center">
-   <img src="mfra.svg" width="800" height="400" alt="Hi there I am Raymond">
-</div>
-
 ### Hi there 👋
 
 Thank you for checking out my Github's profile. I'm AWS certified tech lead and these are some of the programming languages and technologies I currently use:
