@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thank you for checking out my Github's profile. I'm AWS certified tech lead and these are some of the programming languages and technologies I currently use:
+Thank you for checking out my Github's profile. I'm AWS certified engineer and these are some of the programming languages and technologies I currently use:
 
 ![Node](https://aleen42.github.io/badges/src/node.svg)
 ![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)
