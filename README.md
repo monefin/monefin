@@ -1,6 +1,6 @@
 ### Hey 👋 🙂
 
-Thanks for checking out my Github's profile. I'm AWS certified engineer holding Computer Science majoring in Cyber Security & Forensics degree from Murdoch University in Western Australia. These are some technologies I currently use:
+Thanks for checking out my Github's profile. I'm AWS certified engineer holding Computer Science 💻 majoring in Cyber Security & Forensics degree from Murdoch University, Western Australia 🇦🇺. These are some technologies I currently use:
 
 ![Node](https://aleen42.github.io/badges/src/node.svg)
 ![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)
