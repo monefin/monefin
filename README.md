@@ -1,6 +1,10 @@
-### Hey 👋 🙂
+### Hey there! 👋 🙂
 
-Thanks for checking out my Github's profile. I'm AWS certified engineer holding Computer Science degree from Murdoch university, Western Australia 🇦🇺. These are some technologies I currently use:
+Thanks for stopping by my GitHub profile.
+
+I'm an AWS Certified Engineer with a Bachelor’s degree in Computer Science from Murdoch University, Western Australia 🇦🇺.
+
+Here are some of the technologies and tools I currently work with and enjoy exploring:
 
 ![Node](https://aleen42.github.io/badges/src/node.svg)
 ![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)
